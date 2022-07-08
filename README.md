@@ -1,1 +1,2 @@
-# Pose-Estimation-for-Excercise-Analysis
+# Pose Estimation for Excercise Analysis
+Project at Valsium
